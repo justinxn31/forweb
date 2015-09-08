@@ -58,13 +58,13 @@
         }
         .auto-style1 {
             width: 300px;
-            height: 60px;
+            height: 80px;
         }
 
         .bcolor {
         color:#646464;
         font-weight:bold;
-        font-size:12px;
+        font-size:15px;
         }
         .align1 {
         text-align:center
@@ -93,7 +93,7 @@ background-size:cover;
 
         .round {
     border: 1px solid;
-    border-radius: 5px;
+    border-radius: 51px;
         
         }
 
@@ -102,7 +102,7 @@ background-size:cover;
     <script type="text/javascript">
         function ConfirmMe() {
             if (Page_ClientValidate()) {
-                return confirm('確定送出嗎?');
+                return confirm('確定送出嗎1?');
             }
             else {
                 return false;
