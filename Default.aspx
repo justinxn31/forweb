@@ -35,7 +35,7 @@
     color: red;
 }
           .word1 {
-        font-family:微軟正黑體;
+        font-family:微軟正黑體11;
 
         }
 
